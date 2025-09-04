@@ -1,3 +1,8 @@
+"""
+Alunos: Guilherme Tempesta(2312130221) e Gabrielle Arruda(2312130129)
+
+"""
+
 import re
 print("exemplo 1:  \n")
 
